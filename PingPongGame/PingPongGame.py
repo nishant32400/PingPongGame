@@ -3,7 +3,7 @@ from paddle import Paddle
 from ball import Ball
 from scoreboard import ScoreBoard
 import time
-
+# hello there just got here
 screen = Screen()
 screen.bgcolor("black")
 screen.setup(width=800, height=600)
